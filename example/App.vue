@@ -1,17 +1,17 @@
-<template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<template lang="pug">
+p ENV SLM-INPUT
+simple
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import Simple from './components/Simple.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
-  },
-};
+    Simple
+  }
+}
 </script>
 
 <style>
