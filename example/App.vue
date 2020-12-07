@@ -1,5 +1,5 @@
 <template lang="pug">
-p ENV SLM-INPUT
+p ENV SLM-ICON
 simple
 </template>
 

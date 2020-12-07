@@ -1,13 +1,13 @@
 {
-  "name": "slm-input",
+  "name": "slm-icon",
   "version": "0.1.0",
-  "main": "dist/slm-input.umd.min.js",
+  "main": "dist/slm-icon.umd.min.js",
   "author": "Javier Ponferrada López",
   "license": "MIT",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve ./example/main.js",
-    "dist": "vue-cli-service build --name slm-input --entry ./src/SlmInput.vue --target lib",
+    "dist": "vue-cli-service build --name slm-icon --entry ./src/SlmIcon.vue --target lib",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {},

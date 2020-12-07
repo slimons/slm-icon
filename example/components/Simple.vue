@@ -1,21 +1,9 @@
 <template lang="pug">
-slm-input(v-model="valueInput")
-p {{valueInput}}
+slm-icon(name="example")
 </template>
 
 <script>
-import {reactive, toRefs} from 'vue'
-
 export default {
-  setup() {
-    const data = reactive({
-      valueInput: ''
-    })
-
-    return {
-      ...toRefs(data)
-    }
-  }
 }
 </script>
 

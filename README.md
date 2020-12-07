@@ -1,4 +1,4 @@
-# slm-input
+# slm-icon
 
 ## Project setup
 ```
